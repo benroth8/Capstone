@@ -15,3 +15,6 @@ As mentioned, the best model achieved an F1 score of about 0.927.
 <img width="283" alt="Screenshot 2024-02-19 at 11 10 03 AM" src="https://github.com/benroth8/Capstone/assets/37677064/7bcc7466-bb40-4629-83c9-d9c0dd31c347">
 
 The confusion matrix shows a more detailed view of the model's performance. This model does a good job of accurately distinguishing spam emails from non spam emails, which is very useful for people checking their email.
+
+## Next Steps
+Potential next steps for enhancing our spam classifier could include expanding our dataset with a broader variety of emails to better train our model. There are many other spam datasets available for training and testing. Also, considering the implementation of a monitoring system could be valuable, allowing us to track the model's performance over time and adjust as necessary to keep up with evolving spam trends. 

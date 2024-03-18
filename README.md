@@ -23,3 +23,6 @@ The confusion matrix shows a more detailed view of the model's performance. This
 
 ## Next Steps
 Potential next steps for enhancing our spam classifier could include expanding our dataset with a broader variety of emails to better train our model. There are many other spam datasets available for training and testing. Also, considering the implementation of a monitoring system could be valuable, allowing us to track the model's performance over time and adjust as necessary to keep up with evolving spam trends. 
+
+## Repository Info
+The completeSpamAssassin.csv dataset mentioned earlier is in the data folder. My model training and analysis is all contained in Analysis.ipynb. 
